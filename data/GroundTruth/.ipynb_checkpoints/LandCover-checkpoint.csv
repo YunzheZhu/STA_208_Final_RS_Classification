@@ -1,0 +1,126 @@
+,0,groundType
+0,7342231.0,Background
+1,114438.0,Corn
+2,467.0,Cotton
+3,140653.0,Rice
+4,1994.0,Sorghum
+5,8.0,Soybeans
+6,141675.0,unflower
+12,1901.0,Winter Wheat
+13,1122.0,Rye
+21,57826.0,Sugarbeets
+22,1.0,Botatoes
+23,911.0,Other Crops
+24,340432.0,Sweet Potatoes
+27,7628.0,Onions
+28,42848.0,Cucumbers
+29,287.0,Chick Peas
+31,9.0,Tomatoes
+33,38677.0,Clover/Wildflowers
+36,405394.0,Cherries
+37,225797.0,Peaches
+39,16.0,Grapes
+42,11259.0,Citrus
+43,1.0,Pecans
+44,8085.0,Almonds
+46,1.0,Pears
+47,635.0,Aquaculture
+48,5626.0,Open Water
+49,466.0,Perennial Ice/Snow
+50,7137.0,Developed/Open Space
+51,94.0,Developed/Low Intensity
+53,898.0,Developed/High Intensity
+54,230378.0,Barren
+57,715.0,Mixed Forest
+58,167860.0,Shrubland
+59,1.0,Grassland/Pasture
+61,403861.0,Herbaceous Wetlands
+66,9468.0,Cantaloupes
+67,995.0,Olives
+68,3710.0,Oranges
+69,256208.0,Honeydew Meions
+70,1.0,Broccoli
+71,980.0,Peppers
+72,776.0,Pomegranates
+74,741.0,Plums
+75,418912.0,Strawberries
+76,194182.0,Squash
+77,24933.0,Vetch
+92,7.0,
+111,350697.0,
+112,2.0,
+121,331857.0,
+122,348602.0,
+123,587223.0,
+124,202875.0,
+131,30281.0,
+141,3642.0,
+142,59490.0,
+143,45365.0,
+152,814149.0,
+176,1722912.0,
+190,33384.0,
+195,376968.0,
+204,14737.0,
+205,96084.0,
+206,720.0,
+208,1947.0,
+209,387.0,
+211,27128.0,
+212,218.0,
+213,6202.0,
+214,116.0,
+216,4154.0,
+217,193.0,
+219,84.0,
+220,17252.0,
+221,423.0,
+222,1365.0,
+224,2390.0,
+225,5093.0,
+226,5149.0,
+227,257.0,
+228,4151.0,
+229,382.0,
+236,985.0,
+242,2.0,
+243,77.0,
+7,,Sweet Corn
+8,,Pop or Orn Corn
+9,,Barley
+10,,Durum Wheat
+11,,Spring Wheat
+14,,Oats
+15,,Millet
+16,,Canola
+17,,Safflower
+18,,Alfalfa
+19,,Other Hay/Non Alfalfa
+20,,Buckwheat
+25,,Misc Vegs & Fruits
+26,,Watermelons
+30,,Peas
+32,,Herbs
+34,,Sod/grass Seed
+35,,Fllow/Idle Cropland
+38,,Apples
+40,,Christmas Trees
+41,,Other Tree Crops
+45,,Walnuts
+52,,Developed/Med Intensity
+55,,Decodipis Forest
+56,,Evergreen Forest
+60,,Woody Wetlands
+62,,Pistachios
+63,,Triticale
+64,,Carrots
+65,,Garlic
+73,,Greens
+78,,Dbl Crop WinWht/Corn
+79,,Dbi Crop Oats/Corn
+80,,Lettuce
+81,,Dbl Crop Triticale/Corn
+82,,Pumpkins
+83,,Dbl Crop Winwht/Sorghum
+84,,Blueberries
+85,,Cabbage

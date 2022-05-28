@@ -1,0 +1,87 @@
+0,0,groundType
+0,7342231,Background
+1,114438,Corn
+2,467,Cotton
+3,140653,Rice
+4,1994,Sorghum
+5,8,Soybeans
+6,141675,unflower
+12,1901,Sweet Corn
+13,1122,Pop or Orn Corn
+21,57826,Barley
+22,1,Durum Wheat
+23,911,Spring Wheat
+24,340432,Winter Wheat
+27,7628,Rye
+28,42848,Oats
+29,287,Millet
+31,9,Canola
+33,38677,Safflower
+36,405394,Alfalfa
+37,225797,Other Hay/Non Alfalfa
+39,16,Buckwheat
+42,11259,Sugarbeets
+43,1,Botatoes
+44,8085,Other Crops
+46,1,Sweet Potatoes
+47,635,Misc Vegs & Fruits
+48,5626,Watermelons
+49,466,Onions
+50,7137,Cucumbers
+51,94,Chick Peas
+53,898,Peas
+54,230378,Tomatoes
+57,715,Herbs
+58,167860,Clover/Wildflowers
+59,1,Sod/grass Seed
+61,403861,Fllow/Idle Cropland
+66,9468,Cherries
+67,995,Peaches
+68,3710,Apples
+69,256208,Grapes
+70,1,Christmas Trees
+71,980,Other Tree Crops
+72,776,Citrus
+74,741,Pecans
+75,418912,Almonds
+76,194182,Walnuts
+77,24933,Pears
+92,7,Aquaculture
+111,350697,Open Water
+112,2,Perennial Ice/Snow
+121,331857,Developed/Open Space
+122,348602,Developed/Low Intensity
+123,587223,Developed/Med Intensity
+124,202875,Developed/High Intensity
+131,30281,Barren
+141,3642,Decodipis Forest
+142,59490,Evergreen Forest
+143,45365,Mixed Forest
+152,814149,Shrubland
+176,1722912,Grassland/Pasture
+190,33384,Woody Wetlands
+195,376968,Herbaceous Wetlands
+204,14737,Pistachios
+205,96084,Triticale
+206,720,Carrots
+208,1947,Garlic
+209,387,Cantaloupes
+211,27128,Olives
+212,218,Oranges
+213,6202,Honeydew Meions
+214,116,Broccoli
+216,4154,Peppers
+217,193,Pomegranates
+219,84,Greens
+220,17252,Plums
+221,423,Strawberries
+222,1365,Squash
+224,2390,Vetch
+225,5093,Dbl Crop WinWht/Corn
+226,5149,Dbi Crop Oats/Corn
+227,257,Lettuce
+228,4151,Dbl Crop Triticale/Corn
+229,382,Pumpkins
+236,985,Dbl Crop Winwht/Sorghum
+242,2,Blueberries
+243,77,Cabbage
