@@ -1,87 +1,89 @@
 0,0,groundType,reclassify,NewValue
-0,7342231,Background,Background,0
-1,114438,Corn,Corn,18
-2,467,Cotton,Other Crops,20
-3,140653,Rice,Rice,17
-4,1994,Sorghum,Wheat,16
-5,8,Soybeans,GroundVege,12
-6,141675,unflower,Flower,15
-12,1901,Sweet Corn,Corn,18
-13,1122,Pop or Orn Corn,Corn,18
-21,57826,Barley,Wheat,16
+0,117934,Water,Water,2
+1,209832,Corn,Corn,18
+2,1348,Cotton,Other Crops,20
+3,631669,Rice,Rice,17
+4,2207,Sorghum,Wheat,16
+5,11,Soybeans,GroundVege,12
+6,203029,unflower,Flower,15
+12,2746,Sweet Corn,Corn,18
+13,2780,Pop or Orn Corn,Corn,18
+14,18,Mint,Alfalfa,14
+21,61887,Barley,Wheat,16
 22,1,Durum Wheat,Wheat,16
-23,911,Spring Wheat,Wheat,16
-24,340432,Winter Wheat,Wheat,16
-27,7628,Rye,Wheat,16
-28,42848,Oats,Wheat,16
+23,978,Spring Wheat,Wheat,16
+24,408073,Winter Wheat,Wheat,16
+27,8970,Rye,Wheat,16
+28,61047,Oats,Wheat,16
 29,287,Millet,Wheat,16
-31,9,Canola,Flower,15
-33,38677,Safflower,Flower,15
-36,405394,Alfalfa,Alfalfa,14
-37,225797,Other Hay/Non Alfalfa,Hay,6
-39,16,Buckwheat,Wheat,16
-42,11259,Sugarbeets,Tuber,13
-43,1,Botatoes,Tuber,13
-44,8085,Other Crops,Other Crops,20
+31,17,Canola,Flower,15
+33,42806,Safflower,Flower,15
+36,521526,Alfalfa,Alfalfa,14
+37,308647,Other Hay/Non Alfalfa,Hay,6
+39,465,Buckwheat,Wheat,16
+42,17520,Sugarbeets,Tuber,13
+43,8,Botatoes,Tuber,13
+44,9732,Other Crops,Other Crops,20
 46,1,Sweet Potatoes,Tuber,13
-47,635,Misc Vegs & Fruits,Other Crops,20
-48,5626,Watermelons,GroundVege,12
-49,466,Onions,GroundVege,12
-50,7137,Cucumbers,GroundVege,12
-51,94,Chick Peas,Wheat,16
-53,898,Peas,GroundVege,12
-54,230378,Tomatoes,GroundVege,12
-57,715,Herbs,Alfalfa,14
-58,167860,Clover/Wildflowers,Flower,15
-59,1,Sod/grass Seed,Grassland,5
-61,403861,Fllow/Idle Cropland,Idle cropland,19
-66,9468,Cherries,FruitsTree,10
-67,995,Peaches,FruitsTree,10
-68,3710,Apples,FruitsTree,10
-69,256208,Grapes,Grapes,9
+47,737,Misc Vegs & Fruits,Other Crops,20
+48,8626,Watermelons,GroundVege,12
+49,1251,Onions,GroundVege,12
+50,8974,Cucumbers,GroundVege,12
+51,233,Chick Peas,Wheat,16
+53,1663,Peas,GroundVege,12
+54,299327,Tomatoes,GroundVege,12
+57,1335,Herbs,Alfalfa,14
+58,181369,Clover/Wildflowers,Flower,15
+59,4,Sod/grass Seed,Grassland,5
+61,771604,Fllow/Idle Cropland,Idle cropland,19
+66,20060,Cherries,FruitsTree,10
+67,4153,Peaches,FruitsTree,10
+68,6477,Apples,FruitsTree,10
+69,644888,Grapes,Grapes,9
 70,1,Christmas Trees,FruitsTree,10
-71,980,Other Tree Crops,FruitsTree,10
-72,776,Citrus,FruitsTree,10
-74,741,Pecans,NutTree,11
-75,418912,Almonds,NutTree,11
-76,194182,Walnuts,NutTree,11
-77,24933,Pears,FruitsTree,10
-92,7,Aquaculture,Water,2
-111,350697,Open Water,Water,2
-112,2,Perennial Ice/Snow,Water,2
-121,331857,Developed/Open Space,Urban,3
-122,348602,Developed/Low Intensity,Urban,3
-123,587223,Developed/Med Intensity,Urban,3
-124,202875,Developed/High Intensity,Urban,3
-131,30281,Barren,Barren,1
-141,3642,Decodipis Forest,Forest,8
-142,59490,Evergreen Forest,Forest,8
-143,45365,Mixed Forest,Forest,8
-152,814149,Shrubland,Shrubland,7
-176,1722912,Grassland/Pasture,Grassland,5
-190,33384,Woody Wetlands,Wetland,4
-195,376968,Herbaceous Wetlands,Wetland,4
-204,14737,Pistachios,NutTree,11
-205,96084,Triticale,Wheat,16
-206,720,Carrots,GroundVege,12
-208,1947,Garlic,GroundVege,12
-209,387,Cantaloupes,GroundVege,12
-211,27128,Olives,NutTree,11
-212,218,Oranges,FruitsTree,10
-213,6202,Honeydew Meions,GroundVege,12
-214,116,Broccoli,GroundVege,12
-216,4154,Peppers,GroundVege,12
-217,193,Pomegranates,FruitsTree,10
+71,2602,Other Tree Crops,FruitsTree,10
+72,1411,Citrus,FruitsTree,10
+74,1236,Pecans,NutTree,11
+75,618645,Almonds,NutTree,11
+76,426986,Walnuts,NutTree,11
+77,25651,Pears,FruitsTree,10
+92,119,Aquaculture,Water,2
+111,644295,Open Water,Water,2
+112,6,Perennial Ice/Snow,Water,2
+121,625385,Developed/Open Space,Urban,3
+122,562565,Developed/Low Intensity,Urban,3
+123,869113,Developed/Med Intensity,Urban,3
+124,290025,Developed/High Intensity,Urban,3
+131,41254,Barren,Barren,1
+141,39636,Decodipis Forest,Forest,8
+142,522237,Evergreen Forest,Forest,8
+143,269201,Mixed Forest,Forest,8
+152,2410539,Shrubland,Shrubland,7
+176,2950761,Grassland/Pasture,Grassland,5
+190,67525,Woody Wetlands,Wetland,4
+195,497777,Herbaceous Wetlands,Wetland,4
+204,18174,Pistachios,NutTree,11
+205,109237,Triticale,Wheat,16
+206,1109,Carrots,GroundVege,12
+208,2367,Garlic,GroundVege,12
+209,507,Cantaloupes,GroundVege,12
+211,42725,Olives,NutTree,11
+212,495,Oranges,FruitsTree,10
+213,7166,Honeydew Meions,GroundVege,12
+214,124,Broccoli,GroundVege,12
+216,4327,Peppers,GroundVege,12
+217,382,Pomegranates,FruitsTree,10
+218,1,Nectarines,FruitsTree,10
 219,84,Greens,GroundVege,12
-220,17252,Plums,FruitsTree,10
-221,423,Strawberries,Other Crops,20
-222,1365,Squash,GroundVege,12
-224,2390,Vetch,Flower,15
-225,5093,Dbl Crop WinWht/Corn,Corn,18
-226,5149,Dbi Crop Oats/Corn,Corn,18
-227,257,Lettuce,GroundVege,12
-228,4151,Dbl Crop Triticale/Corn,Corn,18
-229,382,Pumpkins,GroundVege,12
-236,985,Dbl Crop Winwht/Sorghum,Wheat,16
-242,2,Blueberries,GroundVege,12
-243,77,Cabbage,GroundVege,12
+220,54592,Plums,FruitsTree,10
+221,701,Strawberries,Other Crops,20
+222,1744,Squash,GroundVege,12
+224,5717,Vetch,Flower,15
+225,14064,Dbl Crop WinWht/Corn,Corn,18
+226,7966,Dbi Crop Oats/Corn,Corn,18
+227,466,Lettuce,GroundVege,12
+228,4356,Dbl Crop Triticale/Corn,Corn,18
+229,423,Pumpkins,GroundVege,12
+236,1138,Dbl Crop Winwht/Sorghum,Wheat,16
+242,9,Blueberries,GroundVege,12
+243,104,Cabbage,GroundVege,12
